@@ -6,7 +6,7 @@
 set -eo pipefail
 
 # Powerline chevron separator (U+E0B0)
-SEP=$'\ue0b0'
+SEP=""
 
 # Emojis for directory hashing (visually distinct set)
 EMOJIS=(🔵 🟢 🟡 🟠 🔴 🟣 ⚪ 🔷 🔶 💎 🌟 ⭐ 🌙 🌈 🔥 💧 🌿 🍀 🌸 🎯 🎨 🎭 🎪 🚀 ✨ 💫 🌀 🎲 🎮 📦 🔮 💜 💙 💚 💛 🧡 ❤️ 🤍 🖤 🤎)
